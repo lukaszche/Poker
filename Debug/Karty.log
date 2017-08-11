@@ -1,0 +1,25 @@
+﻿Build started 2017-07-30 15:24:39.
+     1>Project "C:\Users\Lukasz\Documents\Licencjat Lukasz Jablonski\Projekt\Karty2\Karty\Karty\Karty.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SDL_game.cpp
+         SDL_game.cpp
+     1>c:\users\lukasz\documents\licencjat lukasz jablonski\projekt\karty2\karty\karty\sdl_game.cpp(409): warning C4244: 'argument' : conversion from 'double' to 'Uint8', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lukasz\Documents\Licencjat Lukasz Jablonski\Projekt\Karty2\Karty\Debug\Karty.exe" /INCREMENTAL /NOLOGO SDL.lib SDLmain.lib SDL_ttf.lib SDL_image.lib SDL_mixer.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lukasz\Documents\Licencjat Lukasz Jablonski\Projekt\Karty2\Karty\Debug\Karty.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lukasz\Documents\Licencjat Lukasz Jablonski\Projekt\Karty2\Karty\Debug\Karty.lib" /MACHINE:X86 "SDL.lib" "SDLmain.lib" "SDL_image.lib" "SDL_ttf.lib" "SDL_mixer.lib" Debug\Karty.res
+         Debug\Game_main.obj
+         Debug\Player.obj
+         Debug\SDL_card.obj
+         Debug\SDL_coin.obj
+         Debug\SDL_functions.obj
+         Debug\SDL_game.obj
+         Debug\SDL_table.obj
+         Debug\SDL_timer.obj
+         Debug\Deck.obj
+         Debug\Game.obj
+         Debug\SDL_Trackbar.obj
+         Karty.vcxproj -> C:\Users\Lukasz\Documents\Licencjat Lukasz Jablonski\Projekt\Karty2\Karty\Debug\Karty.exe
+     1>Done Building Project "C:\Users\Lukasz\Documents\Licencjat Lukasz Jablonski\Projekt\Karty2\Karty\Karty\Karty.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.89

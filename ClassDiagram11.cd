@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Deck">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABQACAAAggQAABAAAgQIQAAEAAAEAABAmFIAAAIEIA=</HashCode>
+      <FileName>Deck.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQABAAAAAAAAACACAY0EgAiAABCAKAAAAABgAgI=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SDL_menu">
+    <Position X="6" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AABAIAAEEBAAAAAAAQAgBIBAACAAACAAAkCgAgAAAQA=</HashCode>
+      <FileName>SDL_menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAAAMAACIAIgIgAgiAgCEAEAABCIEgEAUAIABI=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
